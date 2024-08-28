@@ -32,8 +32,6 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
    **Narrativa:** Coleta dados textuais das tarefas e a análise de sentimentos revela um aumento significativo em sentimentos negativos, como "Sad" e "Fear", nos comentários de determinadas equipes, especialmente em tarefas com prazos apertados. Esse cenário negativo pode indicar sinais de burnout ou estresse elevado entre os membros da equipe, alertando a gestão para a necessidade de intervenções, como reavaliação de cargas de trabalho ou suporte adicional.  
 
-___
-
 ### Cenários de Uso Negativos  
 
 1. **Falta de Conhecimento em Liguagem de Programação Python**:  
