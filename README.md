@@ -35,7 +35,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 ### Cenários de Uso Negativos  
 
 1. **Falta de Conhecimento em Liguagem de Programação Python**:  
-   O sistema presume que o usuário tenha familiaridade com a linguagem Python para realizar as adaptações necessárias à reutilização do código. Portanto, um cenário problemático seria a tentativa de uso por parte de alguém sem esse conhecimento técnico, o que poderia comprometer a eficácia do sistema. Além disso, o sistema opera inteiramente via código, sem oferecer uma interface gráfica para facilitar a interação.
+   O software presume que o usuário tenha familiaridade com a linguagem Python para realizar as adaptações necessárias à reutilização do código. Portanto, um cenário problemático seria a tentativa de uso por parte de alguém sem esse conhecimento técnico, o que poderia comprometer a eficácia do software. Além disso, o software opera inteiramente via código, sem oferecer uma interface gráfica para facilitar a interação.
 
 2. **Preenchimento Inadequado das Tarefas no Jira**:  
    O software realiza a mineração e analise de dados da plataforma Jira. No entanto, se os dados não forem corretamente preenchidos, as analises pode apresentar resultados inconsistentes com a realidade do projeto.
@@ -45,41 +45,41 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 ## Requisitos Funcionais
 
 1. **Coleta de Dados do Jira**:
-   - O sistema deve se conectar à API do Jira e extrair informações detalhadas sobre as tarefas.
-   - O sistema deve ser capaz de autenticar-se na API do Jira utilizando as credenciais fornecidas pelo usuário.
+   - O software deve se conectar à API do Jira e extrair informações detalhadas sobre as tarefas.
+   - O software deve ser capaz de autenticar-se na API do Jira utilizando as credenciais fornecidas pelo usuário.
 
 2. **Análise de Sentimentos**:
-   - O sistema deve analisar os textos presentes nas descrições e comentários das tarefas, identificando e classificando os sentimentos expressos.
+   - O software deve analisar os textos presentes nas descrições e comentários das tarefas, identificando e classificando os sentimentos expressos.
    - A classificação dos sentimentos deve ser realizada em cinco categorias: Happy, Angry, Surprise, Sad, e Fear, utilizando a biblioteca `text2emotion`.
 
 3. **Configuração e Personalização**:
-   - O sistema deve permitir que o usuário selecione os tipos de itens a serem minerados e analisados, como tarefas, histórias de usuários, épicos, dentre outros disponíveis no projeto.
+   - O software deve permitir que o usuário selecione os tipos de itens a serem minerados e analisados, como tarefas, histórias de usuários, épicos, dentre outros disponíveis no projeto.
 
 ## Requisitos Não Funcionais
 
 1. **Desempenho**:
-   - O sistema deve ser capaz de processar e analisar grandes volumes de dados provenientes do Jira sem comprometimento significativo do desempenho.
+   - O software deve ser capaz de processar e analisar grandes volumes de dados provenientes do Jira sem comprometimento significativo do desempenho.
    - O tempo de resposta para a coleta e análise de dados deve ser minimizado para garantir a eficiência.
 
 2. **Escalabilidade**:
-   - O sistema deve ser escalável para acomodar o crescimento no volume de tarefas e projetos gerenciados pelo Jira, sem necessidade de reestruturação significativa.
+   - O software deve ser escalável para acomodar o crescimento no volume de tarefas e projetos gerenciados pelo Jira, sem necessidade de reestruturação significativa.
 
 3. **Manutenibilidade**:
-   - O código do sistema deve ser bem documentado e modular, facilitando futuras manutenções, atualizações e adaptações.
+   - O código do software deve ser bem documentado e modular, facilitando futuras manutenções, atualizações e adaptações.
 
 4. **Usabilidade**:
-   - Embora o sistema não possua uma interface gráfica, ele deve ser estruturado de forma clara e acessível para desenvolvedores, com instruções detalhadas para sua configuração e uso.
+   - Embora o software não possua uma interface gráfica, ele deve ser estruturado de forma clara e acessível para desenvolvedores, com instruções detalhadas para sua configuração e uso.
 
 ## Funcionalidades
 
 ### Coleta de Dados
 
-- **Conexão com a API do Jira**: O sistema se conecta à API do Jira para coletar informações sobre tarefas.
+- **Conexão com a API do Jira**: O software se conecta à API do Jira para coletar informações sobre tarefas.
 - **Extração de Dados**: Coleta de dados como responsáveis, tempo estimado e tempo gasto em cada tarefa.
 
 ### Análise de Sentimentos
 
-- **Análise de Textos**: O sistema realiza uma análise dos textos presentes nas descrições e comentários das tarefas.
+- **Análise de Textos**: O software realiza uma análise dos textos presentes nas descrições e comentários das tarefas.
 - **Classificação de Sentimentos**: Utilização da biblioteca `text2emotion` para classificar os sentimentos expressos nos textos em cinco categorias: *Happy*, *Angry*, *Surprise*, *Sad*, e *Fear*.
 
 ## Requisitos
