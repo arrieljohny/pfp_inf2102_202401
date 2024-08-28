@@ -40,6 +40,36 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 2. **Preenchimento Inadequado das Tarefas no Jira**:  
    O software realiza a mineração e analise de dados da plataforma Jira. No entanto, se os dados não forem corretamente preenchidos, as analises pode apresentar resultados inconsistentes com a realidade do projeto.
 
+
+
+## Requisitos Funcionais
+
+1. **Coleta de Dados do Jira**:
+   - O sistema deve se conectar à API do Jira e extrair informações detalhadas sobre as tarefas.
+   - O sistema deve ser capaz de autenticar-se na API do Jira utilizando as credenciais fornecidas pelo usuário.
+
+2. **Análise de Sentimentos**:
+   - O sistema deve analisar os textos presentes nas descrições e comentários das tarefas, identificando e classificando os sentimentos expressos.
+   - A classificação dos sentimentos deve ser realizada em cinco categorias: Happy, Angry, Surprise, Sad, e Fear, utilizando a biblioteca `text2emotion`.
+
+3. **Configuração e Personalização**:
+   - O sistema deve permitir que o usuário selecione os tipos de itens a serem minerados e analisados, como tarefas, histórias de usuários, épicos, dentre outros disponíveis no projeto.
+
+## Requisitos Não Funcionais
+
+1. **Desempenho**:
+   - O sistema deve ser capaz de processar e analisar grandes volumes de dados provenientes do Jira sem comprometimento significativo do desempenho.
+   - O tempo de resposta para a coleta e análise de dados deve ser minimizado para garantir a eficiência.
+
+2. **Escalabilidade**:
+   - O sistema deve ser escalável para acomodar o crescimento no volume de tarefas e projetos gerenciados pelo Jira, sem necessidade de reestruturação significativa.
+
+3. **Manutenibilidade**:
+   - O código do sistema deve ser bem documentado e modular, facilitando futuras manutenções, atualizações e adaptações.
+
+4. **Usabilidade**:
+   - Embora o sistema não possua uma interface gráfica, ele deve ser estruturado de forma clara e acessível para desenvolvedores, com instruções detalhadas para sua configuração e uso.
+
 ## Funcionalidades
 
 ### Coleta de Dados
