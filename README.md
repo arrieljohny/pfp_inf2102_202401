@@ -81,7 +81,6 @@ O software foi concebido para auxiliar equipes de projeto e gestores na obtenç�
 Com esses dados, o sistema visa fornecer uma visão clara e objetiva do andamento dos projetos e do clima organizacional, permitindo uma gestão mais informada e proativa. Este manual descreve as funcionalidades, os requisitos, e as instruções de uso do software, garantindo que o usuário possa aproveitar ao máximo suas capacidades.
 
 
-
 ### **Funcionalidades**
 
 ### Coleta de Dados
@@ -117,10 +116,10 @@ Com esses dados, o sistema visa fornecer uma visão clara e objetiva do andament
 Para instalar o Jupyter Notebook, siga os passos abaixo:
 
 1. Instale o Python
-   - Caso ainda não tenha o Python instalado, faça o download e instale a versão mais recente do Python 3.x a partir do [site oficial do Python](https://www.python.org/downloads/). Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
+Caso ainda não tenha o Python instalado, faça o download e instale a versão mais recente do Python 3.x a partir do [site oficial do Python](https://www.python.org/downloads/). Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
 
 2. Atualize o pip
-   - Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:
+Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:
 
    ```bash
    python -m pip install --upgrade pip
