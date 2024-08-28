@@ -38,14 +38,11 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
    ```bash
    `python -m venv venv`
    
-4. Ative o ambiente virtual.
-   4.1 Windows, use o comando
-      ```bash
-      `venv\Scripts\activate`
+4. Ative o ambiente virtual no Windows | MacOS/Linux
+   ```bash
+   `venv\Scripts\activate`
 
-   4.2 MacOS/Linux, use o comando
-      ```bash
-      `source venv/bin/activate`
+   `source venv/bin/activate`
    
 5. Instale as dependências necessárias com o comando
    ```bash
