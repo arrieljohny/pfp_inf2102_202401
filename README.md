@@ -29,7 +29,8 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
   `os` 
   `dotenv`
   `urllib.parse`
-  `pandas` 
+  `pandas`
+  `deep_translator`
 
 ## Instalação
 
