@@ -70,8 +70,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 4. **Usabilidade**:
    - Embora o software não possua uma interface gráfica, ele deve ser estruturado de forma clara e acessível para desenvolvedores, com instruções detalhadas para sua configuração e uso.
 
-
-##Manual de Utilização
+## Manual de Utilização
 
 ### Funcionalidades
 
