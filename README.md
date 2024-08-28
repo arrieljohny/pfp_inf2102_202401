@@ -40,9 +40,9 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 2. **Preenchimento Inadequado das Tarefas no Jira**:  
    O software realiza a mineração e analise de dados da plataforma Jira. No entanto, se os dados não forem corretamente preenchidos, as analises pode apresentar resultados inconsistentes com a realidade do projeto.
 
+##Documentação Técnica do Projeto
 
-
-## Requisitos Funcionais
+### Requisitos Funcionais
 
 1. **Coleta de Dados do Jira**:
    - O software deve se conectar à API do Jira e extrair informações detalhadas sobre as tarefas.
@@ -55,7 +55,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 3. **Configuração e Personalização**:
    - O software deve permitir que o usuário selecione os tipos de itens a serem minerados e analisados, como tarefas, histórias de usuários, épicos, dentre outros disponíveis no projeto.
 
-## Requisitos Não Funcionais
+### Requisitos Não Funcionais
 
 1. **Desempenho**:
    - O software deve ser capaz de processar e analisar grandes volumes de dados provenientes do Jira sem comprometimento significativo do desempenho.
@@ -70,7 +70,10 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 4. **Usabilidade**:
    - Embora o software não possua uma interface gráfica, ele deve ser estruturado de forma clara e acessível para desenvolvedores, com instruções detalhadas para sua configuração e uso.
 
-## Funcionalidades
+
+##Manual de Utilização
+
+### Funcionalidades
 
 ### Coleta de Dados
 
@@ -82,7 +85,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 - **Análise de Textos**: O software realiza uma análise dos textos presentes nas descrições e comentários das tarefas.
 - **Classificação de Sentimentos**: Utilização da biblioteca `text2emotion` para classificar os sentimentos expressos nos textos em cinco categorias: *Happy*, *Angry*, *Surprise*, *Sad*, e *Fear*.
 
-## Requisitos
+### Requisitos
 
 - Python 3.0+
 - Jupyter Notebook
@@ -98,7 +101,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
   `pandas`
   `deep_translator`
 
-## Instalação
+### Instalação
 
 1. Clone este repositório:
 
