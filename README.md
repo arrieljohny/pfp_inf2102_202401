@@ -119,14 +119,13 @@ Para instalar o Jupyter Notebook, siga os passos abaixo:
 Caso ainda não tenha o Python instalado, faça o download e instale a versão mais recente do Python 3.x a partir do [site oficial do Python](https://www.python.org/downloads/). Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
 
 2. Atualize o pip
-Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:
-
-   ```bash
-   python -m pip install --upgrade pip
+Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:  
+```bash
+python -m pip install --upgrade pip
 
 3. Atualize o pip
-  ```bash
-  python -m venv myenv
+```bash
+python -m venv myenv
 
 4. Ative o ambiente virtual no Windows | MacOS/Linux
    ```bash
