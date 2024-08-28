@@ -8,20 +8,31 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
 ### Cenários de Uso Positivos  
 
-1. **Identificação de Tendências de Produtividade**:  
-   **Usuário:** Gestor de projetos com familiaridade em liguagem de programação python.  
+1. **Identificação de Tendências de Produtividade**:
+
+   **Usuário:** Gestor de projetos com familiaridade em liguagem de programação python.
+   
    **Contexto:** Gostaria de analisar a tendência de produtividade e assertividade no planejamento.  
+
    **Narrativa:** Coleta e analisa dados das tarefas planejadas e concluidas em um conjunto de sprints verificando se a equipe está consistentemente cumprindo os prazos e entregando tarefas dentro do tempo estimado. Esse cenário positivo permite à gestão identificar boas práticas e replicá-las em outras equipes, promovendo a eficiência em toda a organização.  
 
 2. **Melhoria no Clima Organizacional**:  
+
    **Usuário:** Gestor de projetos com familiaridade em liguagem de programação python.  
+
    **Contexto:** Gostaria de analisar o clima organizacional através das comunicações realizadas nas tarefas da equipe.  
+
    **Narrativa:** Coleta dados textuais das tarefas e analisa os sentimentos expressos nas descrições e comentários das tarefas, a ferramenta pode identificar um aumento nos sentimentos positivos, como "Happy" e "Surprise", após a implementação de novas políticas de bem-estar no ambiente de trabalho. Esse feedback possibilita à empresa entender que suas ações estão impactando positivamente o moral e a motivação dos funcionários.
 
 3. **Detecção de Burnout**:  
+
    **Usuário:** Gestor de projetos ou gestor de recursos humanos com familiaridade em liguagem de programação python.  
+
    **Contexto:** Gostaria de realizar uma possivel detecção de burnout através das comunicações realizadas nas tarefas da equipe.  
+
    **Narrativa:** Coleta dados textuais das tarefas e a análise de sentimentos revela um aumento significativo em sentimentos negativos, como "Sad" e "Fear", nos comentários de determinadas equipes, especialmente em tarefas com prazos apertados. Esse cenário negativo pode indicar sinais de burnout ou estresse elevado entre os membros da equipe, alertando a gestão para a necessidade de intervenções, como reavaliação de cargas de trabalho ou suporte adicional.  
+
+---
 
 ### Cenários de Uso Negativos  
 
