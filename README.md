@@ -18,17 +18,25 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
 ## Requisitos
 
-- Python 3.8+
+- Python 3.0+
 - Jupyter Notebook
-- Biblioteca `text2emotion`
-- Biblioteca `requests` (para conexão com a API do Jira)
+- Biblioteca
+  `text2emotion`
+  `requests`
+  `customtkinter`
+  `tkinter`
+  `json`
+  `os` 
+  `dotenv`
+  `urllib.parse`
+  `pandas` 
 
 ## Instalação
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/arrieljohny/pfp_inf2102_202401.git
 
 2. Navegue até o diretório do projeto com o comando
    ```bash
