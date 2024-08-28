@@ -20,7 +20,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
 - Python 3.0+
 - Jupyter Notebook
-- Biblioteca
+- Bibliotecas
   `text2emotion`
   `requests`
   `customtkinter`
