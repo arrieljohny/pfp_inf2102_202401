@@ -72,7 +72,17 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
 ## Manual de Utilização
 
-### Funcionalidades
+### Introdução
+
+Este manual tem como objetivo orientar o usuário na utilização do software desenvolvido para a coleta e análise de dados de tarefas gerenciadas pela plataforma Jira. 
+
+O software foi concebido para auxiliar equipes de projeto e gestores na obtenção de insights valiosos sobre a eficiência do trabalho e o bem-estar das equipes. Através da integração com a API do Jira, o sistema coleta informações detalhadas sobre tarefas, como responsáveis, tempo estimado e tempo gasto. Além disso, o software realiza uma análise de sentimentos nos textos das descrições e comentários das tarefas, utilizando a biblioteca `text2emotion` para identificar emoções como felicidade, raiva, surpresa, tristeza e medo.
+
+Com esses dados, o sistema visa fornecer uma visão clara e objetiva do andamento dos projetos e do clima organizacional, permitindo uma gestão mais informada e proativa. Este manual descreve as funcionalidades, os requisitos, e as instruções de uso do software, garantindo que o usuário possa aproveitar ao máximo suas capacidades.
+
+
+
+### **Funcionalidades**
 
 ### Coleta de Dados
 
