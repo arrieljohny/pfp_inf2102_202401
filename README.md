@@ -25,10 +25,10 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
 ### Cenários de Uso Negativos  
 
-1. **Falta de Conhecimento em Liguagem de Programação Python**: 
+1. **Falta de Conhecimento em Liguagem de Programação Python**:  
    O sistema presume que o usuário tenha familiaridade com a linguagem Python para realizar as adaptações necessárias à reutilização do código. Portanto, um cenário problemático seria a tentativa de uso por parte de alguém sem esse conhecimento técnico, o que poderia comprometer a eficácia do sistema. Além disso, o sistema opera inteiramente via código, sem oferecer uma interface gráfica para facilitar a interação.
 
-2. **Preenchimento Inadequado das Tarefas no Jira **:  
+2. **Preenchimento Inadequado das Tarefas no Jira**:  
    O software realiza a mineração e analise de dados da plataforma Jira. No entanto, se os dados não forem corretamente preenchidos, as analises pode apresentar resultados inconsistentes com a realidade do projeto.
 
 ## Funcionalidades
