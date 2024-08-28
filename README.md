@@ -1,4 +1,4 @@
-# Projeto: Análise de Sentimentos e Gestão de Tarefas com Jira
+# Projeto: Mineração de Dados do Jira para Análise de Sentimentos e Produtividade
 
 ## Descrição
 
