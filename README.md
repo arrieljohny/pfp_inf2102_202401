@@ -121,4 +121,4 @@ Caso ainda não tenha o Python instalado, faça o download e instale a versão m
 2. Atualize o pip
 Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:  
 ```bash
-`python -m pip install --upgrade pip`
+python -m pip install --upgrade pip
