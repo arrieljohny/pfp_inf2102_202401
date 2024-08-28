@@ -121,26 +121,4 @@ Caso ainda não tenha o Python instalado, faça o download e instale a versão m
 2. Atualize o pip
 Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:  
 ```bash
-python -m pip install --upgrade pip
-
-3. Atualize o pip
-```bash
-python -m venv myenv
-
-4. Ative o ambiente virtual no Windows | MacOS/Linux
-   ```bash
-   `venv\Scripts\activate`
-
-   `source venv/bin/activate`
-
-5. Instale o Jupyter Notebook
-   ```bash
-   pip install notebook
-
-6. Inicie o Jupyter Notebook
-   ```bash
-   jupyter notebook
-
-7. Realize o download do arquivo JiraMine&Analyze.ipynb presente neste repositório e abra no jupyter notebook
-   
-8. No Jupyter Notebook, execute o notebook para coletar e analisar os dados das tarefas no Jira.
+`python -m pip install --upgrade pip`
