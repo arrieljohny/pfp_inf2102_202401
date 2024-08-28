@@ -112,31 +112,37 @@ Com esses dados, o sistema visa fornecer uma visão clara e objetiva do andament
 
 ### Instalação
 
-1. Clone este repositório:
+### Instalação do Jupyter Notebook
+
+Para instalar o Jupyter Notebook, siga os passos abaixo:
+
+1. Instale o Python
+   - Caso ainda não tenha o Python instalado, faça o download e instale a versão mais recente do Python 3.x a partir do [site oficial do Python](https://www.python.org/downloads/). Durante a instalação, certifique-se de marcar a opção "Add Python to PATH".
+
+2. Atualize o pip
+   - Abra o terminal (Prompt de Comando no Windows, Terminal no macOS/Linux) e atualize o `pip`, o gerenciador de pacotes do Python:
 
    ```bash
-   git clone https://github.com/arrieljohny/pfp_inf2102_202401.git
+   python -m pip install --upgrade pip
 
-2. Navegue até o diretório do projeto com o comando
-   ```bash
-   `cd seu-repositorio`
+3. Atualize o pip
+  ```bash
+  python -m venv myenv
 
-3. Crie um ambiente virtual utilizando o comando
-   ```bash
-   `python -m venv venv`
-   
 4. Ative o ambiente virtual no Windows | MacOS/Linux
    ```bash
    `venv\Scripts\activate`
 
    `source venv/bin/activate`
-   
-5. Instale as dependências necessárias com o comando
-   ```bash
-   `pip install -r requirements.txt`.
 
-6. Para iniciar o Jupyter Notebook, utilize o comando
+5. Instale o Jupyter Notebook
    ```bash
-   `jupyter notebook`.
+   pip install notebook
+
+6. Inicie o Jupyter Notebook
+   ```bash
+   jupyter notebook
+
+7. Realize o download do arquivo JiraMine&Analyze.ipynb presente neste repositório e abra no jupyter notebook
    
-7. No Jupyter Notebook, execute o notebook para coletar e analisar os dados das tarefas no Jira.
+8. No Jupyter Notebook, execute o notebook para coletar e analisar os dados das tarefas no Jira.
