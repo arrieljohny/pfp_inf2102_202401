@@ -14,7 +14,7 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 ### Análise de Sentimentos
 
 - **Análise de Textos**: O sistema realiza uma análise dos textos presentes nas descrições e comentários das tarefas.
-- **Classificação de Sentimentos**: Utilização da biblioteca `text2emotion` para classificar os sentimentos expressos nos textos em cinco categorias: Happy, Angry, Surprise, Sad, e Fear.
+- **Classificação de Sentimentos**: Utilização da biblioteca `text2emotion` para classificar os sentimentos expressos nos textos em cinco categorias: *Happy*, *Angry*, *Surprise*, *Sad*, e *Fear*.
 
 ## Requisitos
 
