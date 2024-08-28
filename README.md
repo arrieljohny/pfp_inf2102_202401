@@ -29,19 +29,30 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-Para instalar e usar o projeto, siga os seguintes passos:
 
-1. Clone este repositório usando o comando
-     `git clone https://github.com/seu-usuario/seu-repositorio.git`.
 2. Navegue até o diretório do projeto com o comando
-     `cd seu-repositorio`.
+   ```bash
+   `cd seu-repositorio`
+
 3. Crie um ambiente virtual utilizando o comando
-     `python -m venv venv`.
+   ```bash
+   `python -m venv venv`
+   
 4. Ative o ambiente virtual.
-     Windows, use o comando `venv\Scripts\activate`
-     MacOS/Linux, use o comando `source venv/bin/activate`.
+   4.1 Windows, use o comando
+      ```bash
+      `venv\Scripts\activate`
+
+   4.2 MacOS/Linux, use o comando
+      ```bash
+      `source venv/bin/activate`
+   
 5. Instale as dependências necessárias com o comando
-    `pip install -r requirements.txt`.
+   ```bash
+   `pip install -r requirements.txt`.
+
 6. Para iniciar o Jupyter Notebook, utilize o comando
-    `jupyter notebook`.
+   ```bash
+   `jupyter notebook`.
+   
 7. No Jupyter Notebook, execute o notebook para coletar e analisar os dados das tarefas no Jira.
