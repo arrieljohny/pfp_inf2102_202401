@@ -69,6 +69,39 @@ Este projeto é um software desenvolvido em Python e organizado na plataforma Ju
 
 4. **Usabilidade**:
    - Embora o software não possua uma interface gráfica, ele deve ser estruturado de forma clara e acessível para desenvolvedores, com instruções detalhadas para sua configuração e uso.
+  
+## Arquitetura do Software
+
+### Visão Geral
+
+O software foi desenvolvido em Python e estruturado em torno de um notebook Jupyter, permitindo uma integração fácil com diversas bibliotecas e APIs. O objetivo principal é a coleta e análise de dados provenientes do Jira, com foco na análise de sentimentos dos textos relacionados às tarefas.
+
+### Componentes Principais
+
+1. **Coletor de Dados (requests)**
+   - Este componente é responsável por estabelecer a conexão com a API do Jira, autenticar o usuário e extrair os dados.
+
+2. **Analisador de Sentimentos (text2emotion)**
+   - Uma vez coletados os dados, este módulo processa as descrições e comentários das tarefas, utilizando a biblioteca `text2emotion` para identificar e classificar as emoções presentes nos textos.
+
+3. **Notebook Jupyter (Interface do Usuário)**
+   - O Jupyter Notebook atua como a interface principal do usuário, onde todo o código é executado, visualizado e, se necessário, modificado. Ele facilita a interação com os dados e permite a visualização direta dos resultados das análises.
+
+### Fluxo de Dados
+
+1. **Autenticação e Coleta**:
+   - O usuário autentica-se na API do Jira, permitindo a coleta dos dados necessários sobre as tarefas do projeto.
+
+2. **Processamento e Análise**:
+   - Os dados coletados são processados, e as descrições e comentários das tarefas são submetidos ao módulo de análise de sentimentos para identificar as emoções subjacentes.
+
+### Tecnologias e Ferramentas
+
+- **Python**: Linguagem de programação principal utilizada para o desenvolvimento do sistema.
+- **Jupyter Notebook**: Ambiente de desenvolvimento interativo que permite a execução e visualização de código em blocos.
+- **Jira API**: Interface utilizada para a coleta de dados diretamente do Jira.
+- **text2emotion**: Biblioteca Python utilizada para a análise de sentimentos nos textos.
+
 
 ## Manual de Utilização
 
