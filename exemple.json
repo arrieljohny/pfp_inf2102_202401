@@ -1,0 +1,1434 @@
+{
+    "Task": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10188",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10188",
+            "key": "CSTONE-103",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        }
+    ],
+    "Sub-task": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10317",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10317",
+            "key": "CSTONE-190",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10316",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10316",
+            "key": "CSTONE-189",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10315",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10315",
+            "key": "CSTONE-188",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10314",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10314",
+            "key": "CSTONE-187",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10313",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10313",
+            "key": "CSTONE-186",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10312",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10312",
+            "key": "CSTONE-185",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10311",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10311",
+            "key": "CSTONE-184",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10310",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10310",
+            "key": "CSTONE-183",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10309",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10309",
+            "key": "CSTONE-182",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10308",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10308",
+            "key": "CSTONE-181",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/1",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/highest.svg",
+                    "name": "Highest",
+                    "id": "1"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10307",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10307",
+            "key": "CSTONE-180",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10306",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10306",
+            "key": "CSTONE-179",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10019",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "BLOCKED",
+                    "id": "10019",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10305",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10305",
+            "key": "CSTONE-178",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10304",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10304",
+            "key": "CSTONE-177",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10303",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10303",
+            "key": "CSTONE-176",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10302",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10302",
+            "key": "CSTONE-175",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10301",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10301",
+            "key": "CSTONE-174",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10300",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10300",
+            "key": "CSTONE-173",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10299",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10299",
+            "key": "CSTONE-172",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10293",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10293",
+            "key": "CSTONE-170",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10292",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10292",
+            "key": "CSTONE-169",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10291",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10291",
+            "key": "CSTONE-168",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10290",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10290",
+            "key": "CSTONE-167",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10289",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10289",
+            "key": "CSTONE-166",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10288",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10288",
+            "key": "CSTONE-165",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10287",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10287",
+            "key": "CSTONE-164",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10286",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10286",
+            "key": "CSTONE-163",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10281",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10281",
+            "key": "CSTONE-161",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10277",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10277",
+            "key": "CSTONE-159",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/1",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/highest.svg",
+                    "name": "Highest",
+                    "id": "1"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10276",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10276",
+            "key": "CSTONE-158",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10267",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10267",
+            "key": "CSTONE-156",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10266",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10266",
+            "key": "CSTONE-155",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10265",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10265",
+            "key": "CSTONE-154",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10264",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10264",
+            "key": "CSTONE-153",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10263",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10263",
+            "key": "CSTONE-152",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10260",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10260",
+            "key": "CSTONE-150",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10259",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10259",
+            "key": "CSTONE-149",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10256",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10256",
+            "key": "CSTONE-146",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10255",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10255",
+            "key": "CSTONE-145",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10253",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10253",
+            "key": "CSTONE-144",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10247",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10247",
+            "key": "CSTONE-143",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10242",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10242",
+            "key": "CSTONE-142",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10230",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10230",
+            "key": "CSTONE-139",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/3",
+                    "description": "Este problema está sendo trabalhado ativamente no momento pelo responsável.",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/statuses/inprogress.png",
+                    "name": "Em andamento",
+                    "id": "3",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10229",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10229",
+            "key": "CSTONE-138",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10228",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10228",
+            "key": "CSTONE-137",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10227",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10227",
+            "key": "CSTONE-136",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10226",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10226",
+            "key": "CSTONE-135",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10017",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Tarefas pendentes",
+                    "id": "10017",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/2",
+                        "id": 2,
+                        "key": "new",
+                        "colorName": "blue-gray",
+                        "name": "Itens Pendentes"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10223",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10223",
+            "key": "CSTONE-133",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10222",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10222",
+            "key": "CSTONE-132",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10018",
+                    "description": "",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Concluído",
+                    "id": "10018",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/3",
+                        "id": 3,
+                        "key": "done",
+                        "colorName": "green",
+                        "name": "Itens concluídos"
+                    }
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "10221",
+            "self": "https://stone-puc.atlassian.net/rest/api/2/issue/10221",
+            "key": "CSTONE-131",
+            "fields": {
+                "priority": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/priority/3",
+                    "iconUrl": "https://stone-puc.atlassian.net/images/icons/priorities/medium.svg",
+                    "name": "Medium",
+                    "id": "3"
+                },
+                "status": {
+                    "self": "https://stone-puc.atlassian.net/rest/api/2/status/10020",
+                    "description": "This status is managed internally by Jira",
+                    "iconUrl": "https://stone-puc.atlassian.net/",
+                    "name": "Em análise",
+                    "id": "10020",
+                    "statusCategory": {
+                        "self": "https://stone-puc.atlassian.net/rest/api/2/statuscategory/4",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "colorName": "yellow",
+                        "name": "Em andamento"
+                    }
+                }
+            }
+        }
+    ]
+}
